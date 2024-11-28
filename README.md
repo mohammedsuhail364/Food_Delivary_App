@@ -2,7 +2,8 @@ Food Delivery App Frontend
 This is a Food Delivery App Frontend built using Bootstrap and CSS. The project is a responsive and visually appealing user interface for a food delivery application, showcasing various features such as restaurant listings, food menus, and order buttons.
 
 🔗 Live Demo
-Check out the live demo of the project: Food Delivery App Frontend
+
+https://mohammedsuhail364.github.io/Food_Delivary_App/
 
 📂 Features
 Responsive Design: Mobile-first design that works seamlessly across devices.
